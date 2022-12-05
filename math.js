@@ -5,3 +5,8 @@ module.exports = {
   divide: (a, b) => a / b,
   abs: (a, b) => Math.abs(a - b),
 };
+
+
+
+
+
