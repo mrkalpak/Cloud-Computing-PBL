@@ -1,4 +1,5 @@
 const { add, subtract, divide, multiply } = require("./math");
+// import add from './math.js';
 
 describe("Math.js tests", () => {
   it("should test  add  ", () => {
